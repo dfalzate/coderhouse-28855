@@ -1,0 +1,19 @@
+{
+  "name": "primerproyecto",
+  "version": "1.0.0",
+  "description": "Este nuestro primer proyecto",
+  "main": ".src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect ./src/index.js",
+    "node": "node src/index.js"
+  },
+  "author": "Coderhouse",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.10.0"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}

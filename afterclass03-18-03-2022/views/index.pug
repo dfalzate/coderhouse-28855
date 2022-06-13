@@ -1,0 +1,9 @@
+html 
+  head 
+    title Productos 
+    include ./partials/menu
+  body
+    each producto in productos
+      div 
+        h3 Nombre: #{producto.name} 
+        a(href=`/render/get/${producto.id}`) Información adicional  

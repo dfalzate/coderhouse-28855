@@ -1,0 +1,27 @@
+{
+  "name": "clase04-05-03-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server1": "nodemon --inspect ./src/server1.js",
+    "server2": "nodemon --inspect ./src/server2.js",
+    "server3": "nodemon --inspect ./src/server3.js",
+    "server4": "nodemon --inspect ./src/server4.js",
+    "server5": "nodemon --inspect ./src/server5.js",
+    "ejercicio1": "nodemon --inspect ./src/ejercicio1.js",
+    "ejercicio2": "nodemon --inspect ./src/ejercicio2.js",
+    "ejercicio3": "nodemon --inspect ./src/ejercicio3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "multer": "^1.4.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.10.0"
+  }
+}

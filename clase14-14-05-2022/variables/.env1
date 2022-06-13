@@ -1,0 +1,4 @@
+PORT=1111
+NODE_ENV=production1
+HOST=http://google.com
+EMAIL=dev@email.com

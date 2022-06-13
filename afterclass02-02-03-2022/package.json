@@ -1,0 +1,19 @@
+{
+  "name": "afterclass02-02-03-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ejercicio": "nodemon --inspect ejercicio.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.10.0"
+  },
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}

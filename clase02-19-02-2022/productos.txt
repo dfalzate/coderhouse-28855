@@ -1,0 +1,14 @@
+[
+producto1={
+  id:1,
+  title:'Titulo',
+  price:123,
+  thumbnail:'url'
+}
+producto3={
+  id:3,
+  title:'Titulo',
+  price:123,
+  thumbnail:'url'
+}
+]

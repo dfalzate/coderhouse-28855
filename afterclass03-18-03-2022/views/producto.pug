@@ -1,0 +1,10 @@
+html 
+  head 
+    title Detalles del producto 
+    include ./partials/menu
+  body 
+    div 
+      h3=`Nombre: ${producto.name}`
+      p=`Id:  ${producto.id}`
+      p=`Description: ${producto.description}`
+      img(src=`${producto.image}`, alt="", width=100, height=100)

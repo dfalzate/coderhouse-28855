@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>Formulario</h1>
+  <form action="/api/personas" method="POST">
+    <input type="text" name="persona"></input>
+    <button type="submit">Enviar persona</button>
+  </form>
+  <br>
+  <form action="/api/mascotas" method="POST">
+    <label for="nombre">Nombre: </label>
+    <input type="text" name="nombre"></input>
+    <label for="raza">Raza: </label>
+    <input type="text" name="raza"></input>
+    <label for="edad">Edad: </label>
+    <input type="text" name="edad"></input>
+    <button type="submit">Enviar mascota</button>
+  </form>
+</body>
+</html>

@@ -1,0 +1,17 @@
+html 
+  head 
+    title Crear producto 
+    include ./partials/menu
+  body 
+    form(action="/productos/create" method="POST") 
+      div 
+        label(for="name") Nombre: 
+        input(type="text" name="name") 
+      div 
+        label(for="description") Descripción: 
+        input(type="text" name="description") 
+      div 
+        label(for="image") Imagen: 
+        input(type="url" name="image")
+      br
+      button(type="submit") Enviar 

@@ -1,0 +1,1 @@
+setTimeout((()=>{console.log("Hola 1")}),1e3),setTimeout((()=>{console.log("Hola 2")}),2e3),setTimeout((()=>{console.log("Hola 3")}),3e3);

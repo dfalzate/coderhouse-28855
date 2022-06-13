@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Websocket Coderhouse</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="/socket.io/socket.io.js"></script>
+</head>
+<body>
+  <h1>Tutorial websocket.io</h1>
+  <fieldset>
+    <form onSubmit="addMessage();return false">
+      Nombre
+      <input type="text" name="author" id="author">
+      Mensaje 
+      <input type="text" name="message" id="message">
+      <button id="send" type="submit">Enviar</button>
+    </form>
+  </fieldset>
+  <fieldset>
+    <h1>Mensajes</h1>
+    <ul id="messages"></ul>
+  </fieldset>
+  <script>
+
+    const socket = io()
+
+    //'http://localhost:8080'
+
+    // const input = document.getElementById('message')
+    // const boton = document.getElementById('send')
+    // boton.addEventListener('click',()=>{
+    //   console.log(input.value)
+    //   socket.emit('messageFront',input.value)
+    // } )
+    // input.addEventListener('input',()=>{
+    //   console.log(input.value)
+    //   socket.emit('message',input.value)
+    // })
+
+    socket.on('messageBack',(data)=>{
+      console.log('Recibida desde backend: ',data)
+      let innerText =''
+      data.map((message)=>{
+        innerText+=`
+        <li>
+          <div>Autor: ${message.author}</div>
+          <div>Mensaje: ${message.text}</div>
+        </li>
+        `
+      })
+      document.getElementById('messages').innerHTML= innerText
+    })
+
+    socket.on('mensajeConexion',(data)=>{
+      console.log(data)
+      alert(data)
+      socket.emit('mensajeRespuesta','Muchas gracias!')
+    })
+
+    function addMessage(){
+      const author = document.getElementById('author').value
+      const text = document.getElementById('message').value
+      socket.emit('messageFront',{
+        author,
+        text,       
+     })
+      document.getElementById('message').value=''
+    }
+  </script>
+</body>
+</html>
