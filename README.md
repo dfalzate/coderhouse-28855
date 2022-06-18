@@ -16,7 +16,8 @@
 - :muscle: Clase 14 14-05-2022 [Proceso principal del servidor](https://coderhouse.zoom.us/rec/share/DjhdrScXORAn0B2jEt19-xO2BPm8LSI56oXOiH_NcpAYE_n5Adexml2SrG_DB_rV.gj3_z_o-vkRufFLL)
 - :muscle: Clase 15 28-05-2022 [Cluster y escalabilidad](https://coderhouse.zoom.us/rec/share/LnMjrprVtQ05PvS4auTDObV-MyxPTEz7ycwcn1KVczzchVG_uPzzQzkFgmw7xhQ.M6FVUd-ti3aKbF6s)
 - :muscle: Clase 16 04-06-2022 [Logs, debug, profiling](https://coderhouse.zoom.us/rec/share/q--rNwDnOiQLEf-YMbQwrofSA66Kx5q_35coPJbLb9xaizEkqWuI_lZmH1IDhmix.LXcHmEIKWoRxKqWb)
-- :muscle: Clase 17 11-06-2022 [ Productos cloud y Soluciones de terceros](https://drive.google.com/file/d/1t3xTUgzP3EFQh2EJuIjCMfGFZK35ZsgO/view?usp=sharing)
+- :muscle: Clase 17 11-06-2022 [Productos cloud y Soluciones de terceros](https://drive.google.com/file/d/1t3xTUgzP3EFQh2EJuIjCMfGFZK35ZsgO/view?usp=sharing)
+- :muscle: Clase 18 18-06-2022 [Envío de mensajes y Seguridad](https://coderhouse.zoom.us/rec/share/KGOnlkMRowvCQ9EgiLL0jcqOtQtszg6-VkixdDaqFUfwdR1UZtTIYOFF2u2xbGD_.tMKEXsNK6MPAazf2)
 
 ## After class
 
