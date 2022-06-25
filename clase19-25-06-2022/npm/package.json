@@ -1,0 +1,13 @@
+{
+  "name": "operaciones-coderhouse28855",
+  "version": "1.0.2",
+  "description": "Operaciones matematicas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon operaciones.js"
+  },
+  "keywords": [],
+  "author": "Coderhouse28855",
+  "license": "ISC"
+}
