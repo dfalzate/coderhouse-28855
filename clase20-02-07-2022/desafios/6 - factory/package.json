@@ -6,7 +6,8 @@
   "main": "",
   "scripts": {
     "mongo": "node testDao.js mongo",
-    "file": "node testDao.js file"
+    "file": "node testDao.js file",
+    "mem": "node testDao.js"
   },
   "keywords": [],
   "author": "",

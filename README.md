@@ -19,6 +19,7 @@
 - :muscle: Clase 17 11-06-2022 [Productos cloud y Soluciones de terceros](https://drive.google.com/file/d/1t3xTUgzP3EFQh2EJuIjCMfGFZK35ZsgO/view?usp=sharing)
 - :muscle: Clase 18 18-06-2022 [Envío de mensajes y Seguridad](https://coderhouse.zoom.us/rec/share/KGOnlkMRowvCQ9EgiLL0jcqOtQtszg6-VkixdDaqFUfwdR1UZtTIYOFF2u2xbGD_.tMKEXsNK6MPAazf2)
 - :muscle: Clase 19 25-06-2022 [Paquetes y diseño en capas]()
+- :muscle: Clase 20 02-07-2022 [Arquitectura y Diseño]()
 
 ## After class
 

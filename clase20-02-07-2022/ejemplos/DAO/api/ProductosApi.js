@@ -1,5 +1,5 @@
-import ProductosDaoDB from "../dao/ProductosDaoDb.js";
-// import ProductosDaoFile from './dao/ProductosDaoFile.js'
+// import ProductosDaoDB from "../dao/ProductosDaoDb.js";
+import ProductosDaoDB from "../dao/ProductosDaoFile.js";
 
 export default class ProductosApi {
   constructor() {
