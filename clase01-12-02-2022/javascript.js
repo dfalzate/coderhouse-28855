@@ -93,6 +93,14 @@ const arrow = () => {};
   console.log("Soy una funcion anonima");
 })();
 
+const functionHola = () => console.log("+++Hola+++");
+
+function hola(funcion) {
+  funcion();
+}
+
+hola(functionHola);
+
 // function funct(()=>{}){}
 // nombre();
 arrow();
@@ -157,3 +165,17 @@ Cliente.funStatic("static function");
 const cliente = new Cliente("Coderhouse", "12-02-2022", "Dirección");
 console.log(cliente, typeof cliente);
 cliente.getNombre();
+
+class Ensayo {
+  constructor(nombre) {
+    this.nombre = nombre;
+  }
+  suma(a, b) {
+    return a + b;
+  }
+}
+
+const ensayo = new Ensayo("Coder");
+
+console.log(ensayo.nombre);
+console.log(ensayo.suma(1, 2));
