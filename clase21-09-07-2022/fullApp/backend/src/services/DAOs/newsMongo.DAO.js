@@ -25,6 +25,15 @@ export class NewsMongo extends NewsBase {
     }
   }
 
+  async getNews(id) {
+    try {
+      const response = await NewsModel.findById(id);
+      return response;
+    } catch (error) {
+      console.log(error);
+    }
+  }
+
   async createNews(news) {
     try {
       const response = await NewsModel.create(news);

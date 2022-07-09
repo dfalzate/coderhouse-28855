@@ -1,0 +1,36 @@
+{
+  "news": [
+    {
+      "title": "News 1",
+      "body": "Body news 1",
+      "author": "Author 1",
+      "image": "https://h5p.org/sites/default/files/h5p/content/1209180/images/file-6113d5f8845dc.jpeg",
+      "id": "43b8a5b8-9612-4abf-ac8a-04b09df7bb26",
+      "createdAt": 1657380492806
+    },
+    {
+      "title": "News 2",
+      "body": "Body news 2",
+      "author": "Author 2",
+      "image": "https://h5p.org/sites/default/files/h5p/content/1209180/images/file-6113d5f8845dc.jpeg",
+      "id": "73db9491-3583-4745-8e3d-0a6854f7e838",
+      "createdAt": 1657380577636
+    },
+    {
+      "title": "News 3",
+      "body": "Body news 3",
+      "author": "Author 3",
+      "image": "https://h5p.org/sites/default/files/h5p/content/1209180/images/file-6113d5f8845dc.jpeg",
+      "id": "d3d12ba0-4b8d-4c27-8d38-f0c5b1b75931",
+      "createdAt": 1657380694422
+    },
+    {
+      "title": "We need to hack the solid state API port!",
+      "body": "Quos veritatis qui dolorem. Quibusdam adipisci tempora nam voluptas rem eligendi earum omnis itaque. Consequatur commodi aperiam voluptatem repellat nesciunt. Et modi eum non culpa.",
+      "author": "Mr. Angel Bartoletti",
+      "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/688.jpg",
+      "id": "ee9960a1-f7bb-481a-abc7-ab43015258bd",
+      "createdAt": 1657383051428
+    }
+  ]
+}

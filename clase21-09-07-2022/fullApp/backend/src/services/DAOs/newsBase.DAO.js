@@ -1,11 +1,11 @@
 export class NewsBase {
   getAllNews() {
-    console.log("Funcionalidad no implementada");
+   throw new Error("Funcionalidad no implementada");
   }
   getNews(id) {
-    console.log("Funcionalidad no implementada");
+   throw new Error("Funcionalidad no implementada");
   }
   createNews(news) {
-    console.log("Funcionalidad no implementada");
+   throw new Error("Funcionalidad no implementada");
   }
 }

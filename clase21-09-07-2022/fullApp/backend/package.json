@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "file": "nodemon --inspect ./src/server.js",
+    "file": "nodemon --inspect --ignore 'news.json' ./src/server.js",
     "mongo": "nodemon --inspect ./src/server.js mongo"
   },
   "keywords": [],
