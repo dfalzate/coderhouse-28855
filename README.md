@@ -20,6 +20,8 @@
 - :muscle: Clase 18 18-06-2022 [Envío de mensajes y Seguridad](https://coderhouse.zoom.us/rec/share/KGOnlkMRowvCQ9EgiLL0jcqOtQtszg6-VkixdDaqFUfwdR1UZtTIYOFF2u2xbGD_.tMKEXsNK6MPAazf2)
 - :muscle: Clase 19 25-06-2022 [Paquetes y diseño en capas](https://coderhouse.zoom.us/rec/share/B_Q63MK1aHyejKx1GFOaXKYPwpNFKkLZ3fY-TjR-qZ1reXMkx-CBQEp8Z4FI5XQh.xjIQ9winCMNvYQFc)
 - :muscle: Clase 20 02-07-2022 [Arquitectura y Diseño](https://coderhouse.zoom.us/rec/share/EiaEFScWp1puzrkU83_Lq1kJxinhmXwNuVAd9E3yKbIslGiTihCs0VKWhhlzZWAW.rPmcStFxgiMbyE-a)
+- :muscle: Clase 21 09-07-2022 [Desarrollo de un servidor web basado en capas completo + Testeo de funcionalidades](https://coderhouse.zoom.us/rec/share/8mf_AxuiKWrJj3UcJXqCXC2D20CEEJMMJiD38kM_6CNkYJdEvLTlTsGmoCoLi8Jq.vZuFJkouEV9VMPdz)
+
 
 ## After class
 
