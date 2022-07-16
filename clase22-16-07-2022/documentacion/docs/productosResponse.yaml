@@ -1,0 +1,29 @@
+components:
+  schema:
+    CreatedProduct:
+      type: object
+      required:
+       - id
+       - title
+       - price
+       - thumbnail
+      properties:
+        id:
+          type: string
+          description: Id del producto
+        title:
+          type: string
+          description: Titulo del producto
+        price: 
+          type: number
+          description: Precio del producto
+        thumbnail:
+          type: string
+          description: Link de la imagen del producto
+      example:
+        id: 123abc
+        title: Producto 1 Response
+        price: 123
+        thumbnail: http://www.image.com/image.jpg
+    # ErrorCreatedProduct:
+    #  ...
