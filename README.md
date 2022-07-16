@@ -31,7 +31,7 @@
 - :rocket: Afterclass 4 08-04-2022 [MySQL, Knex, express y react](https://coderhouse.zoom.us/rec/share/TN078rw2NUf959WJg1SjPjWpomqyHnB3A-IQmi4kDj7DFcYzw388_1VMSTK7GHy7.3PCLCezsBOonfZct)
 - :rocket: Afterclass 5 22-04-2022 [Aggregations en MongoDB](https://coderhouse.zoom.us/rec/share/IqW10JNxQhXNxN8LIcJmmoAJBh6qdOgk-ogebIhd2ScyP4k8_5new3uxTy7Ah4l9.TK3mcVBFfuduvQ3T)
 - :rocket: Afterclass 6 14-05-2022 [Passport Google](https://coderhouse.zoom.us/rec/share/h_US34BqWw1Hos12d20NqDljmGmbWhIzvr7s6_xLYqIOsOMFEhY2r0n-HB0KyqXc.22Jo5OSybGClVPqT)
-- :rocket: Afterclass 7 15-07-2022 [Testing]()
+- :rocket: Afterclass 7 15-07-2022 [Testing](https://coderhouse.zoom.us/rec/share/S-eTUNTMfQTojNl40HD-7IgcdCTKZTZCps49WmQHf0gGB5bYfoNssdJSBgVglrgN.5JrPLc66-Wyk3czi)
 
 
 🔥 By Diego Alzate
