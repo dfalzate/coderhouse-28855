@@ -4,7 +4,8 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-const PORT = process.argv[2];
+// const PORT = 3000 // process.argv[2];
+const PORT =  process.argv[2];
 const server = app.listen(PORT, () =>
   console.log(`🚀 Server started on port http://localhost:${PORT}`),
 );
