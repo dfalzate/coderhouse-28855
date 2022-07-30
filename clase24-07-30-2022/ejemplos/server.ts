@@ -10,10 +10,16 @@ const handler = (request: Request): Response => {
   console.log(url);
   const param = url.searchParams.get("parametro");
   console.log("Parametros=>", param);
-  return new Response(JSON.stringify({ message: "Hola Codehouser" }), {
+  // return new Response(JSON.stringify({ message: "Hola Codehouser" }), {
+  //   status: 200,
+  //   headers: {
+  //     "content-type": "application/json",
+  //   },
+  // });
+  return new Response("<h1>Hola CODERHOUSE</h1>", {
     status: 200,
     headers: {
-      "content-type": "application/json",
+      "content-type": "text/html",
     },
   });
 };
