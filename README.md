@@ -22,7 +22,8 @@
 - :muscle: Clase 20 02-07-2022 [Arquitectura y Diseño](https://coderhouse.zoom.us/rec/share/EiaEFScWp1puzrkU83_Lq1kJxinhmXwNuVAd9E3yKbIslGiTihCs0VKWhhlzZWAW.rPmcStFxgiMbyE-a)
 - :muscle: Clase 21 09-07-2022 [Desarrollo de un servidor web basado en capas completo + Testeo de funcionalidades](https://coderhouse.zoom.us/rec/share/8mf_AxuiKWrJj3UcJXqCXC2D20CEEJMMJiD38kM_6CNkYJdEvLTlTsGmoCoLi8Jq.vZuFJkouEV9VMPdz)
 - :muscle: Clase 22 16-07-2022 [Documentación de APIs + GraphQL](https://coderhouse.zoom.us/rec/share/3WJBYUGchvj6uz0--ggtN1OEO9DFufjxsuQB__0KJKJ26BymYlDt0Sn7kdsj71_R.S8Erz5Mtxi8Nj4da)
-- :muscle: Clase 23 23-07-2022 [Frameworks de desarrollo Adonis, Nest, Sails, Koa]()
+- :muscle: Clase 23 23-07-2022 [Frameworks de desarrollo Adonis, Nest, Sails, Koa](https://coderhouse.zoom.us/rec/share/lPh56Li55Hq4BZg5mnhh_IZ2UaMMsmjeypLO-kWR_qg6iEijN8YIU1YRMa2v33g.N6GTrYybxDWnRloL)
+- :muscle: Clase 24 30-07-2022 [Deno: el futuro de node?]()
 
 
 ## After class
@@ -34,7 +35,7 @@
 - :rocket: Afterclass 5 22-04-2022 [Aggregations en MongoDB](https://coderhouse.zoom.us/rec/share/IqW10JNxQhXNxN8LIcJmmoAJBh6qdOgk-ogebIhd2ScyP4k8_5new3uxTy7Ah4l9.TK3mcVBFfuduvQ3T)
 - :rocket: Afterclass 6 14-05-2022 [Passport Google](https://coderhouse.zoom.us/rec/share/h_US34BqWw1Hos12d20NqDljmGmbWhIzvr7s6_xLYqIOsOMFEhY2r0n-HB0KyqXc.22Jo5OSybGClVPqT)
 - :rocket: Afterclass 7 15-07-2022 [Testing](https://coderhouse.zoom.us/rec/share/S-eTUNTMfQTojNl40HD-7IgcdCTKZTZCps49WmQHf0gGB5bYfoNssdJSBgVglrgN.5JrPLc66-Wyk3czi)
-- :rocket: Afterclass 8 22-07-2022 [GraphQL - Frontend con react]()
+- :rocket: Afterclass 8 22-07-2022 [GraphQL - Frontend con react](https://coderhouse.zoom.us/rec/share/lPh56Li55Hq4BZg5mnhh_IZ2UaMMsmjeypLO-kWR_qg6iEijN8YIU1YRMa2v33g.N6GTrYybxDWnRloL)
 
 
 🔥 By Diego Alzate
