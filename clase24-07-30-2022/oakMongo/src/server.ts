@@ -1,6 +1,7 @@
 import { Application } from "./deps.ts";
 import UserRoute from "./routes/user.route.ts";
 import { logger } from "./middlewares/logger.middleware.ts";
+import "./db.ts";
 
 const app = new Application();
 
