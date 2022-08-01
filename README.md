@@ -23,7 +23,7 @@
 - :muscle: Clase 21 09-07-2022 [Desarrollo de un servidor web basado en capas completo + Testeo de funcionalidades](https://coderhouse.zoom.us/rec/share/8mf_AxuiKWrJj3UcJXqCXC2D20CEEJMMJiD38kM_6CNkYJdEvLTlTsGmoCoLi8Jq.vZuFJkouEV9VMPdz)
 - :muscle: Clase 22 16-07-2022 [Documentación de APIs + GraphQL](https://coderhouse.zoom.us/rec/share/3WJBYUGchvj6uz0--ggtN1OEO9DFufjxsuQB__0KJKJ26BymYlDt0Sn7kdsj71_R.S8Erz5Mtxi8Nj4da)
 - :muscle: Clase 23 23-07-2022 [Frameworks de desarrollo Adonis, Nest, Sails, Koa](https://coderhouse.zoom.us/rec/share/lPh56Li55Hq4BZg5mnhh_IZ2UaMMsmjeypLO-kWR_qg6iEijN8YIU1YRMa2v33g.N6GTrYybxDWnRloL)
-- :muscle: Clase 24 30-07-2022 [Deno: el futuro de node?]()
+- :muscle: Clase 24 30-07-2022 [Deno: el futuro de node?](https://coderhouse.zoom.us/rec/share/0Qtz0LA2tea2XBGGPK49PkhISVzZQlJ7wwhNgEXPgtTo_IxIpsnNjGs0ioipjgGo.kB2mCVxMxL3oY43Y)
 
 
 ## After class
